@@ -1,2 +1,2 @@
 # Computer-Vision
-#programs
+This repository to create amazing project on computer vision so I can make sure this repo will great experience. Some of the common e computer vision problems include image classification, object localization and detection, and image segmentation. Computer vision applications include fields like: facial recognition technology, medical image analysis, self-driving cars, and intelligent video analytics.
