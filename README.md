@@ -1,15 +1,15 @@
 # Object Tracking with Python
 
-This Python script demonstrates object tracking using [insert framework/library/toolkit used for tracking].
+This Python script demonstrates object tracking using 
 
 ## Prerequisites
 
-- Python [version]
-- [List any additional dependencies]
+- Python 3.9.10
+  
 
 ## Description
 
-[Provide a brief description of what the script does and how it works]
+This is the Computer Vision Projects
 
 ## Usage
 
