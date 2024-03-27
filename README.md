@@ -1,2 +1,20 @@
-# Computer-Vision
-This repository to create amazing project on computer vision so I can make sure this repo will great experience. Some of the common e computer vision problems include image classification, object localization and detection, and image segmentation. Computer vision applications include fields like: facial recognition technology, medical image analysis, self-driving cars, and intelligent video analytics.
+# Object Tracking with Python
+
+This Python script demonstrates object tracking using [insert framework/library/toolkit used for tracking].
+
+## Prerequisites
+
+- Python [version]
+- [List any additional dependencies]
+
+## Description
+
+[Provide a brief description of what the script does and how it works]
+
+## Usage
+
+To run the script, execute the following command:
+
+```bash
+python Object_Tracking.py
+```
